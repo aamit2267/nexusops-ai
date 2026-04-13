@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic[email]
+redis
+python-jose[cryptography]
+bcrypt
+./packages/core_utils
+./packages/shared_schemas
